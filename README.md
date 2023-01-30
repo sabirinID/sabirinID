@@ -17,14 +17,14 @@
 | 🎓 Courses | [DQLab](https://github.com/sabirinID/DQLab) · [DataCamp](https://github.com/sabirinID/DataCamp) · [365DataSciece](https://github.com/sabirinID/365DataSciece) |
 |:--------|:--------------------|
 | ⚙ Projects | [Calculator](https://github.com/sabirinID/Calculator/) · [Tableau Dashboard Showcase](https://github.com/sabirinID/Tableau-Dashboard-Showcase/) | 
-| 📝  Articles | [Apa itu Data Science?](https://github.com/sabirinID/Apa-itu-Data-Science/) · [Python vs R](https://github.com/sabirinID/Python-vs-R/) | 
+| 📝  Articles | [What is Data Science?](https://github.com/sabirinID/Data-Science/) · [Python vs R](https://github.com/sabirinID/Python-vs-R/) | 
 
 ## 📃 Latest Articles
 
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
-- [Apa itu Data Science?](https://github.com/sabirinID/Apa-itu-Data-Science/)
+- [What is Data Science?](https://github.com/sabirinID/Data-Science/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
