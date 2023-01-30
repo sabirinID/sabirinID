@@ -14,7 +14,7 @@
 
  ## ⭐ Popular Repositories
 
-| 🎓 Courses | [DQLab](https://github.com/sabirinID/DQLab) · [DataCamp](https://github.com/sabirinID/DataCamp) · [365DataSciece](https://github.com/sabirinID/365DataSciece) |
+| 🎓 Courses | [DQLab](https://github.com/sabirinID/DQLab) · [DataCamp](https://github.com/sabirinID/DataCamp) · [365DataScience](https://github.com/sabirinID/365DataScience) |
 |:--------|:--------------------|
 | ⚙ Projects | [Calculator](https://github.com/sabirinID/Calculator/) · [Tableau Dashboard Showcase](https://github.com/sabirinID/Tableau-Dashboard-Showcase/) | 
 | 📝  Articles | [What is Data Science?](https://github.com/sabirinID/Data-Science/) · [Python vs R](https://github.com/sabirinID/Python-vs-R/) | 
