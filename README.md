@@ -27,6 +27,7 @@ I am currently mastering essential skills such as SQL, Python, and R to excel in
 
 <!-- BLOG-POST-LIST:START -->
 - [What is Data Science?](https://github.com/sabirinID/Data-Science/)
+- [Python vs R for Data Science](https://github.com/sabirinID/Python-vs-R/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
