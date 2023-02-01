@@ -3,7 +3,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Sabirin! 🧑🏻
 
 <p align="justify">
-  With a background in education and a passion for technology, I am a highly motivated individual seeking a career shift into the field of data science and analytics. I have gained hands-on experience working as an educator in various EdTech start-ups, where I have developed skills in collaboration, critical thinking, problem-solving, and applying new learning.
+  With a background in education and a passion for technology, I am a highly motivated individual seeking a career shift into the field of data science and analytics. I have gained hands-on experience working as an educator in various EdTech start-ups, where I have developed skills in collaboration, communication, critical thinking, problem-solving, and applying new learning.
 
 I am currently mastering essential skills such as SQL, Python, and R to excel in my new role.
 </p>
