@@ -1,4 +1,4 @@
-<img align='right' src = "https://github.com/sabirinID/GitHub-Stats/blob/master/generated/languages.svg#gh-dark-mode-only">
+<img align='right' src = "https://github.com/sabirinID/GitHub-Stats/blob/master/generated/overview.svg#gh-dark-mode-only">
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Sabirin! 🧑🏻
 
