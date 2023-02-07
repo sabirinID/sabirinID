@@ -1,4 +1,4 @@
-<img align='right' src = "https://github.com/sabirinID/GitHub-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="45%" align="right" alt="Sabirin's GitHub Stats">
+<img align='right' src = "https://github.com/sabirinID/GitHub-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" width="40%" align="right" alt="Sabirin's GitHub Stats">
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Sabirin! 🧑🏻
 
@@ -12,7 +12,7 @@ I am currently mastering essential skills such as SQL, Python, and R to excel in
 
 ![Visitor Count](https://profile-counter.glitch.me/{sabirinID}/count.svg)
 
-<img align='right' src = "https://github.com/sabirinID/GitHub-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="45%" align="right" alt="Sabirin's Top Programming Languages">
+<img align='right' src = "https://github.com/sabirinID/GitHub-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="40%" align="right" alt="Sabirin's Top Programming Languages">
 
  ## ⭐ Popular Repositories
 
