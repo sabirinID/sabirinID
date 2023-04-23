@@ -18,7 +18,7 @@ I am currently mastering essential skills such as SQL, Python, and R to excel in
 
 | 🎓 Courses | [DQLab](https://github.com/sabirinID/DQLab) · [DataCamp](https://github.com/sabirinID/DataCamp) · [365DataScience](https://github.com/sabirinID/365DataScience) |
 |:--------|:--------------------|
-| ⚙ Projects | [Data Science Portfolio](https://github.com/sabirinID/Data-Science-Portfolio/) · [Tableau Dashboard Showcase](https://github.com/sabirinID/Tableau-Dashboard-Showcase/) | 
+| ⚙ Projects | [Data Science Portfolio](https://github.com/sabirinID/Data-Science-Portfolio/) · [Machine Learning Projects](https://github.com/sabirinID/Data-Science-Portfolio/blob/main/README.md#machine-learning/) | 
 | 📝  Articles | [What is Data Science?](https://github.com/sabirinID/Data-Science/) · [Python vs R](https://github.com/sabirinID/Python-vs-R/) · [SQL](https://github.com/sabirinID/SQL/) | 
 
 ## 📃 Latest Articles
