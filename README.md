@@ -43,4 +43,5 @@ I am currently mastering essential skills such as SQL, Python, and R to excel in
   <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>   -->
 </p>
 
-![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true)
+<!-- ![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true) -->
+![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true&template=for-the-badge)
