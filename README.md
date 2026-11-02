@@ -12,6 +12,8 @@ I am currently mastering essential skills such as SQL, Python, and R to excel in
 
 ![Visitor Count](https://profile-counter.glitch.me/{sabirinID}/count.svg)
 
+![Hits](https://hits.se)
+
 <img align='right' src = "https://github.com/sabirinID/GitHub-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="40%" align="right" alt="Sabirin's Top Programming Languages">
 
  ## ⭐ Popular Repositories
