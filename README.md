@@ -10,7 +10,7 @@ I am currently mastering essential skills such as SQL, Python, and R to excel in
 
 <!-- ## 👁‍🗨 Visitors Count -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sabirinID&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=sabirinID&style=flat-square
 )
 
 <img align='right' src = "https://github.com/sabirinID/GitHub-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="40%" align="right" alt="Sabirin's Top Programming Languages">
